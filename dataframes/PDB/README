@@ -1,0 +1,6 @@
+dataframe files in this directory:
+
+pdb_filtered_all_human.csv	list of all pdb chains for organism 9606
+atom_nomenclature_PDB.csv	list of atom names per amino acid used in PDB
+DF_PDB_coverage_all_human.csv	computed structural coverage over human proteins
+uniprot_fasta_numres.csv	mappings of uniprot ID to fasta record and residue number
