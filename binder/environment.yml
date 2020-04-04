@@ -1,0 +1,11 @@
+name: MutCat 
+
+dependencies:
+  - python>=3.6
+  - openjdk==8.0.152
+  - pyspark==2.3.2
+  - biopython==1.72
+  - pip
+  - pip:
+    - git+https://github.com/sbl-sdsc/mmtf-pyspark.git 
+    - bioservices==1.6.0
