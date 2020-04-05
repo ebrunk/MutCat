@@ -5,7 +5,16 @@ dependencies:
   - openjdk==8.0.152
   - pyspark==2.3.2
   - biopython==1.72
+  - plotly 
+  - scikit-learn 
+  - pandas
+  - numpy
+  - scipy
+  - statsmodels
+  - seaborn 
   - pip
   - pip:
     - git+https://github.com/sbl-sdsc/mmtf-pyspark.git 
     - bioservices==1.6.0
+    - chart-studio
+    - rpy2
